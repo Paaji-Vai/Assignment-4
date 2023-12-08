@@ -6,7 +6,7 @@
 * 
 *  Name: Japit Singh   Student ID: 113570220   
 *
-*  Online (Cyclic) URL: 
+*  Online (Cyclic) URL:https://dull-pink-bison-robe.cyclic.app/blog 
 *
 ********************************************************************************/ 
 
